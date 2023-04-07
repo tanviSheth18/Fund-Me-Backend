@@ -2,7 +2,7 @@
 
 Hey everyone! Check out my second deployment of a full stack decentralized application and Ethereum Smart Contract for: Crowdfunding, Escrow Services, Charity Donations, Employee Payroll, Staking Rewards, and Real Estate Investing. 
 
-Check out my two-part article for a deeper run-through of the code and a detailed explanation of my smart contract and scripts, how I incorporated price feed oracles, optimized for gas, and leveraged unit/staging tests. 
+Check out my two-part article for a deeper run-through of the code and a detailed explanation of my smart contract and scripts, how I incorporated price feed oracles, optimized for gas, and leveraged unit/staging tests. I pause to explain concepts unique to Web3.
 
 1. https://medium.com/@sheth.tanvi18/decentralized-funding-a3de5734e24a
 2. https://medium.com/@sheth.tanvi18/functional-and-robust-smart-contracts-unit-and-stage-tests-oracles-and-gas-optimization-2861061c862
